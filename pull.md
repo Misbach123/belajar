@@ -1,3 +1,0 @@
-ini misbach
-
-ini teddy
